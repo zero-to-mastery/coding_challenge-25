@@ -6,7 +6,7 @@ Please Use the **#coding-challenge** channel on Discord to discuss and share you
 
 ## What are the Rules?
 1. You have to commit to 30 days. It doesn't matter how much you work each day. All that matters is that you do at least something every day toward your project. It can be as little as wirting a README file, or doing research, or as big as pushing code to Github with a new feature. 
-2. Every day, you have to let us know what you did in one of 2 ways: Tweet on Twitter, or if you don't have Twitter in the #coding-challenge channel on Discord let us know what you worked on using the #30dayproject and #zerotomastery hashtags. For example I might say on twitter: **Today I pushed my first index.html file to Github for Day 1 of #30dayproject #zerotomastery**
+2. Every day, you have to let us know what you did in one of 2 ways: [Tweet on Twitter](https://twitter.com/AndreiNeagoie), or if you don't have Twitter in the **#coding-challenge** channel on Discord let us know what you worked on using the **#30dayproject and #zerotomastery hashtags**. For example I might say on twitter: **Today I pushed my first index.html file to Github for Day 1 of #30dayproject #zerotomastery**
 3. Every day you have to let others know what you have done so you keep yourself accuntable and you get to see what others are working on. At the end of 30 days (January 30th or January 31st), you will have to submit your project that you have worked on so you share it with the community. Read below to see how to submit your project!
 
 ## Student Submissions:
