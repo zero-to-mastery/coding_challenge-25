@@ -50,3 +50,22 @@ Movie-App it will be a streaming platform for movies like Netflix or HBO GO. It'
 - [Project Repo](https://github.com/OceanU/movie-app.git)
 - [Live Demo - not available for the moment](https://github.com/OceanU/movie-app.git)
 - [Linkedin](https://www.linkedin.com/in/ionut-oceanu/)
+
+## green_arrow#9809 - Github Timeline
+API's and graphical representation of information are hallmarks of modern web applications. GitHub Timeline combines the two to create a visual history of a users GitHub activity.
+
+The goal of GitHub Timeline is accept a GitHub user name and produce a timeline containing each repo and annotated with the repo names, the date they were created, and their descriptions. The timeline should be one that could be shared with a prospective employer. It should be easy to read and make effective use of color and typography.
+
+Only public GitHub repos will be displayed.
+
+- [Github Repo](https://github.com/skarthikeyan96/Github-timeline)
+- [Twitter Handle](https://twitter.com/karthik_coder)
+- [Linkedin](https://www.linkedin.com/in/karthikeyan-s-4a13608a/)
+
+
+## Chima#1595 - Med-Search
+A health application that enable users to get information and make reservations for health procedures on different centers like Hospitals, Diagnostic centers and  Laboratories in Nigeria.
+
+- [Project Repo](https://github.com/ChimaChinedum/Med-Search)
+- [Twitter](https://twitter.com/ChimaChinedum)
+- [Linkedin](https://www.linkedin.com/in/ChimaChinedum)
