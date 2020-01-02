@@ -39,7 +39,7 @@ I have been debating on creating a blog for a long time and decided I wanted to 
 
 
 ## rahulzura-desu#4431 - Blog
-I have found that I keep going back to the things that I had learned earlier, and I have got knowledge gaps. So, in order to learn concepts more clearly, I am going to write about what I learn, in simple laguage, like a story as mentioned in Feynman's technique. Also, I want to make this in plain html, css, js, nodejs, as I've been wanting to brush up my basics. 
+I've been wanting to start a personal blog, also it'd help me learn concepts more thoroughly, So, I am going to write about what I learn, in simple laguage, like a story as mentioned in Feynman's technique. Also, I want to make this in plain html, css, js, nodejs, as I've been wanting to brush up my basics too. 
 
 - [Project Repo](https://github.com/rahulzura/blog)
 - [Twitter](https://twitter.com/rahulzura)
