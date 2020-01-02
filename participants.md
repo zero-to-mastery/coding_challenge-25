@@ -8,7 +8,7 @@ Copy the following format, paste it to the end of the document and edit your det
 
 ```
 ## ${ Discord Handle } - ${ Project Name }
-${ Project Desctiption }
+${ Project Description }
 
 - [Project Repo](https://github.com/johndoe)
 - [Live Demo](https://github.com/johndoe)
@@ -16,6 +16,7 @@ ${ Project Desctiption }
 ```
 
 # 👩🏻‍💻 Particpants 👨🏻‍💻
+
 ## Matt#8280 - Twitter Bot
 Having enjoyed building Discord bots in Javascript, I have always wanted to experiment with building a twitter bot and #30DayProject 
 seems like the ideal time. It should be an interesting project as I have never worked with the twitter API before. 
@@ -34,3 +35,10 @@ I have been debating on creating a blog for a long time and decided I wanted to 
 - [Project Repo](https://github.com/Bartholomewbd/gatsby-portfolio)
 - [Twitter](https://twitter.com/bartholomewbd)
 - [Linkedin](https://www.linkedin.com/in/bartholomewbd)
+
+## kylsiu#9227 - Web Idle Game
+I am a professional video game developer and wanted to figure out a way to incorporate the ZTM work with that. I generally work with Unity3D/C# on mobile platforms so wanted to create a JavaScript game for browsers instead. My idea is to have an idle game with a funny story - mostly because I hate idle games and want to see if I can figure out how to make one people would like and therefore understand the underlying reasons on why people play them.
+
+- [Project Repo](https://github.com/jessiagee/30dayproject)
+- [Website] (https://jessiagee.com)
+- [Twitter](https://twitter.com/@extroverted_dev)
