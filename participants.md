@@ -42,6 +42,13 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Twitter](https://twitter.com/Cynthia_W4)
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
 
+## maxben#7891 - Travelmaniac
+$ I would love to create an project that helps people find travel destinations. I will use this to improve my javascript, react and rails skills.
+
+- [Project Repo](https://github.com/marvellousubani)
+- [Linkedin](https://www.linkedin.com/in/marvellousubani/)
+- [Twitter](https://twitter.com/marvelousUbani)
+
 ## kylsiu#9227 - Web Idle Game
 I am a professional video game developer and wanted to figure out a way to incorporate the ZTM work with that. I generally work with Unity3D/C# on mobile platforms so wanted to create a JavaScript game for browsers instead. My idea is to have an idle game with a funny story - mostly because I hate idle games and want to see if I can figure out how to make one people would like and therefore understand the underlying reasons on why people play them.
 
