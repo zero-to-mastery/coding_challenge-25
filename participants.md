@@ -34,9 +34,16 @@ I have been debating on creating a blog for a long time and decided I wanted to 
 - [Twitter](https://twitter.com/bartholomewbd)
 - [Linkedin](https://www.linkedin.com/in/bartholomewbd)
 
-## Cynthia#8466 - Etch-a-Sketch
-Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, pixel size can be changed by user, additional features will be added as time permits.
 
+## rahulzura-desu#4431 - Blog
+I've been wanting to start a personal blog, also it'd help me learn concepts more thoroughly, So, I am going to write about what I learn, in simple laguage, like a story as mentioned in Feynman's technique. Also, I want to make this in plain html, css, js, nodejs, as I've been wanting to brush up my basics too. 
+
+- [Project Repo](https://github.com/rahulzura/blog)
+- [Twitter](https://twitter.com/rahulzura)
+- [Linkedin](https://www.linkedin.com/in/rahulzura)
+
+
+## Cynthia#8466 - Etch-a-Sketch
 - [Project Repo](https://github.com/cynthiaw89/Etch-a-Sketch)
 - [Live Demo](https://cynthiaw89.github.io/Etch-a-Sketch/)
 - [Twitter](https://twitter.com/Cynthia_W4)
@@ -105,3 +112,4 @@ A health application that enable users to get information and make reservations 
 - [Project Repo](https://github.com/ChimaChinedum/Med-Search)
 - [Twitter](https://twitter.com/ChimaChinedum)
 - [Linkedin](https://www.linkedin.com/in/ChimaChinedum)
+
