@@ -43,6 +43,11 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Twitter](https://twitter.com/Cynthia_W4)
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
 
+## hiren#7559 - cGUI
+I am looking at creating a console based Git user interface (cGUI) in python. I am currently looking at features to incorporate, library required for certain features. I havent yet created any git repo
+
+- [Project Repo](https://github.com/johndoe)
+
 ## kaem#6578 - Five-on-4
 5-a-side football match organizer, to make it easier for friends and colleagues to organize and play football matches. I would like users to be able to create match events, signup for matches and see other players that signed up. I will also try to implement match reports feature, to get matches and players' profiles with simple statistics such as matches participation and goals. Weather forecast for dates when matches are played would also be nice...
 
