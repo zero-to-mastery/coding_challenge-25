@@ -42,3 +42,11 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Live Demo](https://cynthiaw89.github.io/Etch-a-Sketch/)
 - [Twitter](https://twitter.com/Cynthia_W4)
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
+
+
+## poseidon142001#5073 - Movie-App
+Movie-App it will be a streaming platform for movies like Netflix or HBO GO. It's an ambitious project for 30 days and I decided to don't give more details for the moment.
+
+- [Project Repo](https://github.com/OceanU/movie-app.git)
+- [Live Demo - not available for the moment](https://github.com/OceanU/movie-app.git)
+- [Linkedin](https://www.linkedin.com/in/ionut-oceanu/)
