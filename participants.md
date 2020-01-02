@@ -42,3 +42,10 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Live Demo](https://cynthiaw89.github.io/Etch-a-Sketch/)
 - [Twitter](https://twitter.com/Cynthia_W4)
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
+
+## maxben#7891 - Travelmaniac
+$ I would love to create an project that helps people find travel destinations. I will use this to improve my javascript, react and rails skills.
+
+- [Project Repo](https://github.com/marvellousubani)
+- [Linkedin](https://www.linkedin.com/in/marvellousubani/)
+- [Twitter](https://twitter.com/marvelousUbani)
