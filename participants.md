@@ -44,6 +44,13 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
 
 
+## poseidon142001#5073 - Movie-App
+Movie-App it will be a streaming platform for movies like Netflix or HBO GO. It's an ambitious project for 30 days and I decided to don't give more details for the moment.
+
+- [Project Repo](https://github.com/OceanU/movie-app.git)
+- [Live Demo - not available for the moment](https://github.com/OceanU/movie-app.git)
+- [Linkedin](https://www.linkedin.com/in/ionut-oceanu/)
+
 ## green_arrow#9809 - Github Timeline
 API's and graphical representation of information are hallmarks of modern web applications. GitHub Timeline combines the two to create a visual history of a users GitHub activity.
 
@@ -62,4 +69,3 @@ A health application that enable users to get information and make reservations 
 - [Project Repo](https://github.com/ChimaChinedum/Med-Search)
 - [Twitter](https://twitter.com/ChimaChinedum)
 - [Linkedin](https://www.linkedin.com/in/ChimaChinedum)
-
