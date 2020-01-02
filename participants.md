@@ -42,3 +42,15 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Live Demo](https://cynthiaw89.github.io/Etch-a-Sketch/)
 - [Twitter](https://twitter.com/Cynthia_W4)
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
+
+## green_arrow#9809 - Github Timeline
+API's and graphical representation of information are hallmarks of modern web applications. GitHub Timeline combines the two to create a visual history of a users GitHub activity.
+
+The goal of GitHup Timeline is accept a GitHub user name and produce a timeline containing each repo and annotated with the repo names, the date they were created, and their descriptions. The timeline should be one that could be shared with a prospective employer. It should be easy to read and make effective use of color and typography.
+
+Only public GitHub repos will be displayed.
+
+- [Github Repo](https://github.com/skarthikeyan96/Github-timeline)
+- [Twitter Handle](https://twitter.com/karthik_coder)
+- [Linkedin](https://www.linkedin.com/in/karthikeyan-s-4a13608a/)
+
