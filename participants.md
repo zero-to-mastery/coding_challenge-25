@@ -35,10 +35,14 @@ I have been debating on creating a blog for a long time and decided I wanted to 
 - [Twitter](https://twitter.com/bartholomewbd)
 - [Linkedin](https://www.linkedin.com/in/bartholomewbd)
 
-## Cynthia#8466 - Etch-a-Sketch
-Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, pixel size can be changed by user, additional features will be added as time permits.
 
-- [Project Repo](https://github.com/cynthiaw89/Etch-a-Sketch)
-- [Live Demo](https://cynthiaw89.github.io/Etch-a-Sketch/)
-- [Twitter](https://twitter.com/Cynthia_W4)
-- [Linkedin](https://www.linkedin.com/in/cynthia-ware)
+
+
+## rahulzura-desu#4431 - Blog
+I have found that I keep going back to the things that I had learned earlier, and I have got knowledge gaps. So, in order to learn concepts more clearly, I am going to write about what I learn, in simple laguage, like a story as mentioned in Feynman's technique. Also, I want to make this in plain html, css, js, nodejs, as I've been wanting to brush up my basics. 
+
+- [Project Repo](https://github.com/rahulzura/blog)
+- [Twitter](https://twitter.com/rahulzura)
+- [Linkedin](https://www.linkedin.com/in/rahulzura)
+
+
