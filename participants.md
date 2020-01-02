@@ -34,3 +34,11 @@ I have been debating on creating a blog for a long time and decided I wanted to 
 - [Project Repo](https://github.com/Bartholomewbd/gatsby-portfolio)
 - [Twitter](https://twitter.com/bartholomewbd)
 - [Linkedin](https://www.linkedin.com/in/bartholomewbd)
+
+## Cynthia#8466 - Etch-a-Sketch
+Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, pixel size can be changed by user, additional features will be added as time permits.
+
+- [Project Repo](https://github.com/cynthiaw89/Etch-a-Sketch)
+- [Live Demo](https://cynthiaw89.github.io/Etch-a-Sketch/)
+- [Twitter](https://twitter.com/Cynthia_W4)
+- [Linkedin](https://www.linkedin.com/in/cynthia-ware)
