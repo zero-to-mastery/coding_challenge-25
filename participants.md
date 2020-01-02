@@ -43,6 +43,7 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Twitter](https://twitter.com/Cynthia_W4)
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
 
+
 ## green_arrow#9809 - Github Timeline
 API's and graphical representation of information are hallmarks of modern web applications. GitHub Timeline combines the two to create a visual history of a users GitHub activity.
 
@@ -53,4 +54,12 @@ Only public GitHub repos will be displayed.
 - [Github Repo](https://github.com/skarthikeyan96/Github-timeline)
 - [Twitter Handle](https://twitter.com/karthik_coder)
 - [Linkedin](https://www.linkedin.com/in/karthikeyan-s-4a13608a/)
+
+
+## Chima#1595 - Med-Search
+A health application that enable users to get information and make reservations for health procedures on different centers like Hospitals, Diagnostic centers and  Laboratories in Nigeria.
+
+- [Project Repo](https://github.com/ChimaChinedum/Med-Search)
+- [Twitter](https://twitter.com/ChimaChinedum)
+- [Linkedin](https://www.linkedin.com/in/ChimaChinedum)
 
