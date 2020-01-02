@@ -42,3 +42,9 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Live Demo](https://cynthiaw89.github.io/Etch-a-Sketch/)
 - [Twitter](https://twitter.com/Cynthia_W4)
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
+
+## jaijg#2202 - My Expenses
+Simple Expense ***app with MERN stack*** to track our daily expenses. Having got some basic knowledge in ***REACT*** and Wanted to Learn ***NODEJS***, I guess this is a good time to learn and upgrade myself. I don't know much about the NODEJS and EXPRESS, so yet to decide the features, flow and look of the app!
+
+- [Project Repo](https://github.com/jjaijg/myExpenses)
+- [Linkedin](https://www.linkedin.com/in/jaijg/)
