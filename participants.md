@@ -42,3 +42,8 @@ Sketch pad project using HTML, CSS, and JS only.  Hover effect will mark cells, 
 - [Live Demo](https://cynthiaw89.github.io/Etch-a-Sketch/)
 - [Twitter](https://twitter.com/Cynthia_W4)
 - [Linkedin](https://www.linkedin.com/in/cynthia-ware)
+
+## hiren#7559 - cGUI
+I am looking at creating a console based Git user interface (cGUI) in python. I am currently looking at features to incorporate, library required for certain features. I havent yet created any git repo
+
+- [Project Repo](https://github.com/johndoe)
