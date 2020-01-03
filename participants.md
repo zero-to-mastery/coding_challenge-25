@@ -113,3 +113,10 @@ A health application that enable users to get information and make reservations 
 - [Twitter](https://twitter.com/ChimaChinedum)
 - [Linkedin](https://www.linkedin.com/in/ChimaChinedum)
 
+
+## ebzeal - The School App
+${ I have been interested in creating a full fledged school management app. I started this repo 8 months ago, but all I did then was just CI integration and quality badges. I hope to be able to achieve a lot in the next 28 days }
+
+- [Project Repo](https://github.com/ebzeal/school-manager-backend)
+- [Linkedin](https://www.linkedin.com/in/ebzeal/)
+- [Twitter](https://twitter.com/ebzeal)
