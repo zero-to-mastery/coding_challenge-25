@@ -114,8 +114,18 @@ A health application that enable users to get information and make reservations 
 - [Linkedin](https://www.linkedin.com/in/ChimaChinedum)
 
 
+## skuld#0858 - Diabetes Self-management
+API and client to add meals, blood glucose levels measurements, upload photos. I'd love to do some CV to recognize meal contents from photo, not sure if I'll have the time to do that. Also handle recipes, calculate carbohydrates, fluid intake... but I'd rather not bite more than I can chew :D  
+Aiming to learn Docker, a CI/CD tool, Django (DRF), React, and Heroku. And Google Drive and Dropbox APIs, but we'll see how it goes.
+
+- [API Project Repo](https://github.com/innsmthdwlr/sweet-handy)
+- [Client Project Repo](https://github.com/innsmthdwlr/sweet-handy-client)
+- Live Demo
+- [Twitter](https://twitter.com/innsmouthdwlr)
+
+
 ## ebzeal - The School App
-${ I have been interested in creating a full fledged school management app. I started this repo 8 months ago, but all I did then was just CI integration and quality badges. I hope to be able to achieve a lot in the next 28 days }
+I have been interested in creating a full fledged school management app. I started this repo 8 months ago, but all I did then was just CI integration and quality badges. I hope to be able to achieve a lot in the next 28 days
 
 - [Project Repo](https://github.com/ebzeal/school-manager-backend)
 - [Linkedin](https://www.linkedin.com/in/ebzeal/)
