@@ -113,3 +113,10 @@ A health application that enable users to get information and make reservations 
 - [Twitter](https://twitter.com/ChimaChinedum)
 - [Linkedin](https://www.linkedin.com/in/ChimaChinedum)
 
+
+## Kooki.eByte#3825 - Customizable Clock
+I have started learning first in python and now in Web Developement, as the months have been going by learning i have missed playing with python so im challenging myself with a fun project using some libraries in python to make a clock that can be customized by the user with certain things like the color of the clock and perhaps even a design change of the clock. Time will tell but really excited to grow in this process with everyone aboard!
+
+- [Project Repo](Not available just yet)
+- [Twitter](https://twitter.com/HornedoCristian)
+
