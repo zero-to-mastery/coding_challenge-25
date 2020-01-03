@@ -137,3 +137,11 @@ I have been interested in creating a full fledged school management app. I start
 - [Project Repo](https://github.com/ebzeal/school-manager-backend)
 - [Linkedin](https://www.linkedin.com/in/ebzeal/)
 - [Twitter](https://twitter.com/ebzeal)
+
+## Geometra #3174 - Numerik
+Having learned about python in conjuction with jupyter notebooks, I find it a great open-source algebra system, that can be used in with libraries such as sympy for symbolics, numpy for linear algebra and numerics in general and ploting utilities available from matplotlib for example.
+This project is just a collection of jupyter notebooks I am producing while studying a bit of numerical mathematics. It is a medium for me to understand the math, while at the same time experimenting with this newly learned way of doing algebra, numerics and plots in the computer.
+One of the goals of the project is to practice also the use of virtual environments. Thus I created one and exported the dependencies to requirements.txt file.
+
+- [Project Repo](https://github.com/nicgallego/numerik.git)
+
