@@ -145,3 +145,11 @@ One of the goals of the project is to practice also the use of virtual environme
 
 - [Project Repo](https://github.com/nicgallego/numerik.git)
 
+
+## magicandcode#7585 - Portfolio Projects Component
+Self-contained app for handling portfolio projects. Projects data is fetched with the [Github API](https://developer.github.com/v3/) and stored to enable custom features and presentation.
+Built to fit into either a Flask or Django application.
+
+- [Project Repo](https://github.com/magicandcode/portfolio-projects-component)
+- [Instagram](https://www.instagram.com/magicandcode/)
+
