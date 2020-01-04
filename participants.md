@@ -165,3 +165,10 @@ I have been meaning to switch my portfolio from Gatsby over to Sapper/Svelte JS 
 - [Project Repo](https://github.com/sballgirl11/b.Designed-sapper)
 - [Live Demo](https://bdesigned.netlify.com/)
 - [Twitter](https://twitter.com/BrittneyPostma)
+
+## ${ cassyblaise#9220 } - ${  E-commerce Platform }
+${ I am creating an Ecommerce web application that let users shop online, this project would be created with React.js and Redux. I have never created a large project with react and I think this is a great opportunity for me to explore react.js. Feel free to connect with me on Twitter/Linkedin, where I will likely document my journey alongside Discord! }
+
+- [Project Repo](https://github.com/cassyblaise)
+- [Linkedin](https://www.linkedin.com/in/obokcasmir/)
+- [Twitter](https://twitter.com/cassyjnr)
