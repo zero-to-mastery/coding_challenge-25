@@ -145,3 +145,10 @@ One of the goals of the project is to practice also the use of virtual environme
 
 - [Project Repo](https://github.com/nicgallego/numerik.git)
 
+
+## Brittney#1988 } - Portfolio
+I have been meaning to switch my portfolio from Gatsby over to Sapper/Svelte JS for awhile. I started working with Sapper on my site I've been keeping my developer notes on, [Console Logs](https://console-logs.netlify.com/). I am really a fan of how smooth Svelte JS is and am excited to get my portfolio updated and moved over!
+
+- [Project Repo](https://github.com/sballgirl11/b.Designed-sapper)
+- [Live Demo](https://bdesigned.netlify.com/)
+- [Twitter](https://twitter.com/BrittneyPostma)
