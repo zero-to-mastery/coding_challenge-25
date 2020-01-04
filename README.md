@@ -49,9 +49,3 @@ Twitter/Linkedin, where I will likely document my journey alongside Discord!
 - [Project Repo](https://github.com/mattcsmith/twitterBot)
 - [Twitter](https://twitter.com/MattCSmith_)
 - [Linkedin](https://www.linkedin.com/in/matthew-c-smith/)
-
-## ${ Brittney#1988 } - ${ Portfolio }
-${ I have been meaning to switch my portfolio from Gatsby over to Sapper/Svelte JS for awhile. I started working with Sapper on my site I've been keeping my developer notes on, [Console Logs](https://console-logs.netlify.com/). I am really a fan of how smooth Svelte JS is and am excited to get my portfolio updated and moved over! }
-
-- [Project Repo](https://github.com/sballgirl11/sapper-graphcms-blog)
-- [Twitter](https://twitter.com/BrittneyPostma)
