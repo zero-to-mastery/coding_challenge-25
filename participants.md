@@ -179,3 +179,9 @@ ${ I am creating a school group tour sign up and response form for customers to 
 - [Project Repo](https://github.com/tpartridge1/BELSchoolForm)
 - [Linkedin](www.linkedin.com/in/tammy-partridge-mah-cta-90786235)
 - [Twitter](https://twitter.com/@TammyPartridge)
+
+## Bearfeets#7186 - Website Touch Up
+My project is to update a website I made a year or two ago using some of the knowledge I have gained since then. It is a website that let's you search for a Pokemon and receive information about it.
+
+- [Project Repo](https://github.com/KittyBoy19/30DayProject)
+- [Twitter](https://twitter.com/@kittyboy1919)
