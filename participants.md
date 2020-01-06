@@ -179,3 +179,10 @@ ${ I am creating a school group tour sign up and response form for customers to 
 - [Project Repo](https://github.com/tpartridge1/BELSchoolForm)
 - [Linkedin](www.linkedin.com/in/tammy-partridge-mah-cta-90786235)
 - [Twitter](https://twitter.com/@TammyPartridge)
+
+## ${ ariskycode } - ${ CLI_Portfolio }
+${ I am creating a portfolio site that works like a directory based CLI. This will be created in JS and jQuery. Then will be converted to React and Redux. (further extend to Angular if possible). Will share project link as soon as I can deploy. Feel free to help out on this as I am very new to development. }
+
+- [Project Repo](https://github.com/ariskycode/cli-portfolio)
+- [Linkedin](www.linkedin.com/in/arahims)
+- [Twitter](https://twitter.com/@ariskycode)
