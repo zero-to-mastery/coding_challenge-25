@@ -159,15 +159,15 @@ This is my #30DayProject for #ZeroToMastery. When started learning to code I qui
 - [Live Demo](https://perry-olsson.github.io/javascript-calculator/)
 - [Twitter](https://twitter.com/Perry_A_Olsson)
 
-## Brittney#1988 } - Portfolio
+## Brittney#1988 - Portfolio
 I have been meaning to switch my portfolio from Gatsby over to Sapper/Svelte JS for awhile. I started working with Sapper on my site I've been keeping my developer notes on, [Console Logs](https://console-logs.netlify.com/). I am really a fan of how smooth Svelte JS is and am excited to get my portfolio updated and moved over!
 
 - [Project Repo](https://github.com/sballgirl11/b.Designed-sapper)
 - [Live Demo](https://bdesigned.netlify.com/)
 - [Twitter](https://twitter.com/BrittneyPostma)
 
-## ${ cassyblaise#9220 } - ${  E-commerce Platform }
-${ I am creating an Ecommerce web application that let users shop online, this project would be created with React.js and Redux. I have never created a large project with react and I think this is a great opportunity for me to explore react.js. Feel free to connect with me on Twitter/Linkedin, where I will likely document my journey alongside Discord! }
+## cassyblaise#9220 -  E-commerce Platform
+I am creating an Ecommerce web application that let users shop online, this project would be created with React.js and Redux. I have never created a large project with react and I think this is a great opportunity for me to explore react.js. Feel free to connect with me on Twitter/Linkedin, where I will likely document my journey alongside Discord!
 
 - [Project Repo](https://github.com/cassyblaise)
 - [Linkedin](https://www.linkedin.com/in/obokcasmir/)
@@ -178,3 +178,23 @@ I've been thinking to build my own person website for a long time.My personal we
 
 - [Project Repo](https://github.com/f228476653/personal_site)
 - [Linkedin](https://www.linkedin.com/in/anita-chang-514549160/?locale=en_US)
+
+## tpartridge1 - BELSchoolForm
+I am creating a school group tour sign up and response form for customers to use and submit to an email account for a local museum. These forms will be easier for board members and staff to process from a central area both can access.
+
+- [Project Repo](https://github.com/tpartridge1/BELSchoolForm)
+- [Linkedin](www.linkedin.com/in/tammy-partridge-mah-cta-90786235)
+- [Twitter](https://twitter.com/@TammyPartridge)
+
+## Bearfeets#7186 - Website Touch Up
+My project is to update a website I made a year or two ago using some of the knowledge I have gained since then. It is a website that let's you search for a Pokemon and receive information about it.
+
+- [Project Repo](https://github.com/KittyBoy19/30DayProject)
+- [Twitter](https://twitter.com/@kittyboy1919)
+
+##  ariskycode - CLI_Portfolio 
+I am creating a portfolio site that works like a directory based CLI. This will be created in JS and jQuery. Then will be converted to React and Redux. (further extend to Angular if possible). Will share project link as soon as I can deploy. Feel free to help out on this as I am very new to development. 
+
+- [Project Repo](https://github.com/ariskycode/cli-portfolio)
+- [Linkedin](www.linkedin.com/in/arahims)
+- [Twitter](https://twitter.com/@ariskycode)
