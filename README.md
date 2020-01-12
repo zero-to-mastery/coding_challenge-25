@@ -236,5 +236,5 @@ This is App help users to create events of any time. The Features include
 - [Project Repo](https://github.com/tweneboah/hicotek-event-app)
 - [Live Demo](https://github.com/tweneboah/hicotek-event-app)
 - [Twitter](https://twitter.com/@ETweneboah1)
-`
+
 ```
