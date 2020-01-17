@@ -123,11 +123,12 @@ I have started learning first in python and now in Web Developement, as the mont
 
 ## skuld#0858 - Diabetes Self-management
 API and client to add meals, blood glucose levels measurements, upload photos. I'd love to do some CV to recognize meal contents from photo, not sure if I'll have the time to do that. Also handle recipes, calculate carbohydrates, fluid intake... but I'd rather not bite more than I can chew :D  
-Aiming to learn Docker, a CI/CD tool, Django (DRF), React, and Heroku. And Google Drive and Dropbox APIs, but we'll see how it goes.
+Aiming to learn Docker, a CI/CD tool, DRF, React, and Heroku. And Google Drive and Dropbox APIs, but we'll see how it goes.
 
-- [API Project Repo](https://github.com/innsmthdwlr/sweet-handy)
+- [API Project Repo](https://github.com/innsmthdwlr/sweet-handy-api)
 - [Client Project Repo](https://github.com/innsmthdwlr/sweet-handy-client)
-- Live Demo
+- [Live API](https://sweethandy-prod.herokuapp.com)
+- [Live Client](https://sweethandy.herokuapp.com)
 - [Twitter](https://twitter.com/innsmouthdwlr)
 
 
