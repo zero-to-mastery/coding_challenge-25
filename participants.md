@@ -83,8 +83,9 @@ For this challenge, I am going to create a project making use of react ⚛️ an
 ## jaijg#2202 - My Expenses
 Simple Expense ***app with MERN stack*** to track our daily expenses. Having got some basic knowledge in ***REACT*** and Wanted to Learn ***NODEJS***, I guess this is a good time to learn and upgrade myself. I don't know much about the NODEJS and EXPRESS, so yet to decide the features, flow and look of the app!
 
-- [Project Repo](https://github.com/jjaijg/myExpenses)
+- [Project Repo](https://github.com/jjaijg/myExpense)
 - [Linkedin](https://www.linkedin.com/in/jaijg/)
+- [Live Demo](https://mytransaction.herokuapp.com/)
 
 
 ## poseidon142001#5073 - Movie-App
