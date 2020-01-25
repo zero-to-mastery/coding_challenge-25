@@ -200,3 +200,9 @@ I am creating a portfolio site that works like a directory based CLI. This will 
 - [Project Repo](https://github.com/ariskycode/cli-portfolio)
 - [Linkedin](www.linkedin.com/in/arahims)
 - [Twitter](https://twitter.com/@ariskycode)
+
+## h0oni - Bangla_number_detector
+I an new to machine learning. So this is my first proper ml project. it uses a database of 19k photos of 10 classes and uses VGG16 based convoluional neural network. And finally i used tkinter for interfacing.
+
+-[Project repo](https://github.com/h0oni/Bangla_digit_detection)
+-[Linkdin](https://www.linkedin.com/in/md-mashur-shalehin-163838126/)
