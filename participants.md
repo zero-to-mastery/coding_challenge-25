@@ -206,3 +206,9 @@ I an new to machine learning. So this is my first proper ml project. it uses a d
 
 -[Project repo](https://github.com/h0oni/Bangla_digit_detection)
 -[Linkdin](https://www.linkedin.com/in/md-mashur-shalehin-163838126/)
+
+## Anette#4560 - Spectral Pulse
+ I always found music visualizers interesting, and this challenge was a good occasion to attempt and create one myself. I know there are better ones, but this is my first one and I'm really proud of what it turned out as. 
+
+- [Project Repo](https://github.com/RedSquirrrel/spectral-pulse)
+- [Live Demo](https://redsquirrrel.github.io/spectral-pulse/)
