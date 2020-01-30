@@ -245,3 +245,10 @@ I always found music visualizers interesting, and this challenge was a good occa
 
 - [Project Repo](https://github.com/RedSquirrrel/spectral-pulse)
 - [Live Demo](https://redsquirrrel.github.io/spectral-pulse/)
+
+## Jory#3582 - Portfolio Page
+A portfolio page is one of the most important projects to complete for me since I'm trying to land a software developer job. I wanted to create a page that is sleek, responsive, and helpful for recruiters. I have my resume, background, education, training, projects, and coding solutions displayed.
+
+- [Project Repo](https://github.com/Cambro320/Cambro320.github.io)
+- [Live Demo](https://www.joryiansmith.com/)
+- [Linkdin](https://www.linkedin.com/in/joryiansmith/)
