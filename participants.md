@@ -252,3 +252,10 @@ A portfolio page is one of the most important projects to complete for me since 
 - [Project Repo](https://github.com/Cambro320/Cambro320.github.io)
 - [Live Demo](https://www.joryiansmith.com/)
 - [Linkdin](https://www.linkedin.com/in/joryiansmith/)
+
+## Snader#9933 - UnoParty
+
+I've been wanting to make something with websockets for a while, so this is what I came up with for this challenge: UnoParty an Uno game made with react, express, socketio and mongodb
+
+- [Project Repo](https://github.com/Sandermoen/UnoParty)
+- [Live Demo](https://unoparty.herokuapp.com/)
