@@ -26,4 +26,4 @@ At the end of the challenge, I will compile everyone's submitted websites/projec
 Checkout other participants and add your own participation to the **[Participants.md](https://github.com/zero-to-mastery/coding_challenge-25/blob/master/participants.md)** file. 
 
 ## Looking for more challenges?
-We highly recommend checking out the back catalogue of [coding challenges](https://zerotomastery.io/community/coding-challenges/utm_source=github&utm_medium=coding_challenge-25). With varying levels of complexity there is something to test and push every skill level. 
+We highly recommend checking out the back catalogue of [coding challenges](https://zerotomastery.io/community/coding-challenges/?utm_source=github&utm_medium=coding_challenge-25). With varying levels of complexity there is something to test and push every skill level. 
