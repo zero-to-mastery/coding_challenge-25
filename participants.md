@@ -171,14 +171,6 @@ One of the goals of the project is to practice also the use of virtual environme
 
 - [Project Repo](https://github.com/nicgallego/numerik.git)
 
-## magicandcode#7585 - Portfolio Projects Component
-
-Self-contained app for handling portfolio projects. Projects data is fetched with the [Github API](https://developer.github.com/v3/) and stored to enable custom features and presentation.
-Built to fit into either a Flask or Django application.
-
-- [Project Repo](https://github.com/magicandcode/portfolio-projects-component)
-- [Instagram](https://www.instagram.com/magicandcode/)
-
 ## Perry#3337 = javascript-calculator
 
 This is my #30DayProject for #ZeroToMastery. When started learning to code I quickly realized that I actually enjoy math, so I knew at some point I wanted to create a calculator. I've been thinking a lot lately about what I want to create to really showcase on my resume/portfolio, and I think a fully functioning graphing calculator would be awesome. There's obviously a lot that goes into a graphing calculator and there's a lot of learning left for me to do, but I thought #30dayproject would be the perfect opportunity to put pen to paper and just create a basic calculator.
@@ -257,3 +249,10 @@ A portfolio page is one of the most important projects to complete for me since 
  This is the first time coding challenge. My purpose is to make something this month. I made this because i wanted to make a moving page. When clicked icons in the top area, the secenary changes. When clicked icons on the picture in the works section, the picture became bigger and there is a message in the bottom left. 
 
  - [Live Demo](https://wubuchako.github.io/2020_January_30dayProject/.)
+
+## Snader#9933 - UnoParty
+
+I've been wanting to make something with websockets for a while, so this is what I came up with for this challenge: UnoParty an Uno game made with react, express, socketio and mongodb
+
+- [Project Repo](https://github.com/Sandermoen/UnoParty)
+- [Live Demo](https://unoparty.herokuapp.com/)
