@@ -245,6 +245,11 @@ A portfolio page is one of the most important projects to complete for me since 
 - [Live Demo](https://www.joryiansmith.com/)
 - [Linkdin](https://www.linkedin.com/in/joryiansmith/)
 
+## chiyo#9689 - A Dog Engineer Portofolio type Landing Page
+ This is the first time coding challenge. My purpose is to make something this month. I made this because i wanted to make a moving page. When clicked icons in the top area, the secenary changes. When clicked icons on the picture in the works section, the picture became bigger and there is a message in the bottom left. 
+
+ - [Live Demo](https://wubuchako.github.io/2020_January_30dayProject/.)
+
 ## Snader#9933 - UnoParty
 
 I've been wanting to make something with websockets for a while, so this is what I came up with for this challenge: UnoParty an Uno game made with react, express, socketio and mongodb
