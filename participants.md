@@ -252,3 +252,8 @@ A portfolio page is one of the most important projects to complete for me since 
 - [Project Repo](https://github.com/Cambro320/Cambro320.github.io)
 - [Live Demo](https://www.joryiansmith.com/)
 - [Linkdin](https://www.linkedin.com/in/joryiansmith/)
+
+## chiyo#9689 - A Dog Engineer Portofolio type Landing Page
+ This is the first time coding challenge. My purpose is to make something this month. I made this because i wanted to make a moving page. When clicked icons in the top area, the secenary changes. When clicked icons on the picture in the works section, the picture became bigger and there is a message in the bottom left. 
+
+ - [Live Demo](https://wubuchako.github.io/2020_January_30dayProject/.)
