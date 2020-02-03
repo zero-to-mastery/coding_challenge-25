@@ -22,5 +22,8 @@ At the end of the challenge, I will compile everyone's submitted websites/projec
 *** **Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
 
 
-# 💪🏼 Show Your Participation!
+## 💪🏼 Show Your Participation!
 Checkout other participants and add your own participation to the **[Participants.md](https://github.com/zero-to-mastery/coding_challenge-25/blob/master/participants.md)** file. 
+
+## Looking for more challenges?
+We highly recommend checking out the back catalogue of [coding challenges](https://zerotomastery.io/community/coding-challenges/?utm_source=github&utm_medium=coding_challenge-25). With varying levels of complexity there is something to test and push every skill level. 
