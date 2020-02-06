@@ -258,3 +258,12 @@ I've been wanting to make something with websockets for a while, so this is what
 - [Project Repo](https://github.com/Sandermoen/UnoParty)
 - [Live Demo](https://unoparty.herokuapp.com/)
 
+
+## Faisal#4646 - Robobee
+A simple react-app that generates unique robot images from any text.
+Uses [Robohash](https://robohash.org/) web service.
+
+- [Project Repo](https://github.com/fsl-mo/robobee)
+- [Live Demo](https://robobee.netlify.com/)
+- [Twitter](https://twitter.com/fsl_mo)
+
